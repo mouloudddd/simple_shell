@@ -5,6 +5,7 @@
  * @head: address of pointer to head node
  * @str: str field of node
  * @num: node index used by history
+ * command below to execute
  *
  * Return: size of list
  */
